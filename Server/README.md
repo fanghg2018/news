@@ -1,4 +1,4 @@
-# JF-News-Management-System-Server
+# Server
 新闻管理系统，后端服务器代码，nodejs+express
 
 ### 下载依赖包
