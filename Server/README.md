@@ -10,6 +10,3 @@ npm install
 ```
 npm start
 ```
-
-后台管理界面的代码
-https://github.com/jiangfeng-w/JF-News-Management-System-Admin.git
