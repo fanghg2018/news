@@ -119,6 +119,7 @@ const goHome = () => {
     background-color: #304156;
     border: #304156;
     height: 100%;
+
   }
 
   box-shadow: 2px 0 6px rgb(0 21 41 / 35%);
@@ -154,6 +155,7 @@ const goHome = () => {
 :deep(.el-sub-menu) .el-menu-item {
   background-color: #1f2d3d;
 
+
 }
 
 :deep(.el-menu-item):hover,
@@ -162,6 +164,15 @@ const goHome = () => {
 }
 
 :deep(.el-sub-menu) .el-menu-item:hover {
+  background-color: #001528;
+}
+
+.el-menu-item {
+  background-color: #1f2d3d;
+}
+
+
+.el-menu-item:hover {
   background-color: #001528;
 }
 </style>
