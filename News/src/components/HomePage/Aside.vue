@@ -152,20 +152,11 @@ const goHome = () => {
   }
 }
 
-:deep(.el-sub-menu) .el-menu-item {
-  background-color: #1f2d3d;
-
-
-}
-
 :deep(.el-menu-item):hover,
 :deep(.el-sub-menu__title):hover {
   background-color: #2d3d52;
 }
 
-:deep(.el-sub-menu) .el-menu-item:hover {
-  background-color: #001528;
-}
 
 .el-menu-item {
   background-color: #1f2d3d;
