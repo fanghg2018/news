@@ -1,4 +1,4 @@
-# jf_admin
+# admin
 
 ## Project setup
 ```
@@ -15,8 +15,4 @@ npm run serve
 npm run build
 ```
 
-服务器端代码
-https://github.com/jiangfeng-w/JF-News-Management-System-Server.git
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
